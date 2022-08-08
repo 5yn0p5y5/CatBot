@@ -1,7 +1,7 @@
 # CatBot
 I love cats. 
 
-UNDER CONSTRUCTIOIN!!! LOOK AWAY!!!
+UNDER CONSTRUCTION!!! LOOK AWAY!!!
 
 To Do:
 - [ ] Get initial bot working
